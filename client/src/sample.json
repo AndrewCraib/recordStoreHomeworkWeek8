@@ -1,0 +1,22 @@
+module.exports = [
+  { "artist": "Johnny Cash",
+  "title": "All My Friends Are Cowboys", 
+  "price": 12.99
+  },
+  {  "artist": "Oasis",
+  "title": "Definitely Mabye", 
+  "price": 12.99
+  },
+  {  "artist": "Arctic Monkeys",
+  "title": "AM", 
+  "price": 12.99
+  },
+  {  "artist": "Nirvana",
+  "title": "Nevermind", 
+  "price": 12.99
+  },
+  {  "artist": "Frightened Rabbit",
+  "title": "Midnight Organ Fight", 
+  "price": 12.99
+  },
+]
